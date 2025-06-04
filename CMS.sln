@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.UI", "CMS.UI\CMS.UI.csproj", "{D004B622-AF96-4D61-A0F4-3AEBABECC349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Models", "CMS.Models\CMS.Models.csproj", "{8D1C4CC5-7BB0-4690-BA6D-0F74EA175AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D004B622-AF96-4D61-A0F4-3AEBABECC349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D004B622-AF96-4D61-A0F4-3AEBABECC349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D004B622-AF96-4D61-A0F4-3AEBABECC349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1C4CC5-7BB0-4690-BA6D-0F74EA175AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1C4CC5-7BB0-4690-BA6D-0F74EA175AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1C4CC5-7BB0-4690-BA6D-0F74EA175AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1C4CC5-7BB0-4690-BA6D-0F74EA175AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
